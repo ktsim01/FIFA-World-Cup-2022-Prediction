@@ -15,4 +15,8 @@ I used Machine Learning to build a Logistic Regression model using scikit-learn,
 5. Seaborn
 6. Matplotlib 
 
-## According to this model Brazil is likely to win this World Cup.
+According to this model Brazil is likely to win this World Cup.
+
+## References
+1. https://www.kaggle.com/code/pasinduranasinghe123/fifa-2022-eda-prediction-model/notebook
+2. https://blog.goodaudience.com/predicting-fifa-world-cup-2018-using-machine-learning-dc07ad8dd576
